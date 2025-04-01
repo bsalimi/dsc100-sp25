@@ -19,7 +19,7 @@ Databases are at the heart of modern commercial application development. Their u
 **Course Assistants:**
 
 
-Shruti Sawant, ssawant@ucsd.edu
+[Shruti Sawant](https://www.linkedin.com/in/shrutipsawant/), ssawant@ucsd.edu
 
 [Baharan Khatami](https://www.linkedin.com/in/bah-kh/), skhatami@ucsd.edu
 
@@ -42,6 +42,8 @@ Tuesdays and Thursdays at 2:00p-3:20p
 Babak Salimi: Tuesdays at 4p-5p
 
 Baharan Khatami: Mondays at 11:30a-12:30p
+
+Shruti Sawant: Fridays at 2p-3p
 
 **Piazza:** [link](https://piazza.com/ucsd/spring2025/dsc100/) (Requires access code posted on Canvas)
 
