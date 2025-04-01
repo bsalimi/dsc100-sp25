@@ -78,7 +78,7 @@ Babak Salimi: Tuesdays at 4p-5p
 
 **Final Exam (50%):** The final exam will be comprehensive and will be held in person.
 
-
+**Bonus (3%)**: Awarded for participation in Slido web quizzes.
 
 **Exam Dates:**
 
