@@ -39,11 +39,6 @@ Tuesdays and Thursdays at 2:00p-3:20p
 
 Babak Salimi: Tuesdays at 4p-5p
 
-Shruti Sawant: Fridays at 2p-3p
-
-Masfiqur Rahaman: Wednesday at 11a-12p
-
-
 **Piazza:** [link](https://piazza.com/ucsd/winter2025/dsc100) (Requires access code posted on Canvas)
 
 **Have questions? Please email Babak Salimi (bsalimi@ucsd.edu) and at least one of the TAs for questions about logistics. All other questions should be discussed on Piazza.**
@@ -56,7 +51,7 @@ Masfiqur Rahaman: Wednesday at 11a-12p
 ## Course Workload
 **(subject to change)**
 
-**Homework (40%):** There will be weekly homeworks consisting of written problem-solving and programming assignments (35%) and web quizzes (5%). The purpose of the homeworks is to provide students with the opportunity to apply and practice the concepts and skills learned in the lectures. Homeworks will be more rigorous than the web quizzes and will require students to demonstrate a deeper understanding of the material. The purpose of the web quizzes is to help students reinforce their understanding of the course material by answering review questions based on the previous lectures. The following is a list of the homeworks and web quizzes in the course:
+**Homework (30%):** There will be weekly homeworks consisting of written problem-solving and programming assignments (35%) and web quizzes (5%). The purpose of the homeworks is to provide students with the opportunity to apply and practice the concepts and skills learned in the lectures. Homeworks will be more rigorous than the web quizzes and will require students to demonstrate a deeper understanding of the material. The purpose of the web quizzes is to help students reinforce their understanding of the course material by answering review questions based on the previous lectures. The following is a list of the homeworks and web quizzes in the course:
 
 - Homework 1: SQLITE and SQL Basics
 - Homework 2: Basic SQL Queries
@@ -81,15 +76,13 @@ Masfiqur Rahaman: Wednesday at 11a-12p
 
 **Midterm (20%):** The midterm exam will cover all topics up until Formal Query Languages. It will be held on canvas.
 
-**Final Exam (35%):** The final exam will be comprehensive and will be held on canvas.
+**Final Exam (50%):** The final exam will be comprehensive and will be held on canvas.
 
-**Class Participation (5%):**  Involves answering questions with the slido.
 
 Both Midterm and Final exam will be held remote.
 
 **Exam Dates:**
 
-- Midterm Exam: Feb 13
 
 **Extra Credit:**
 
