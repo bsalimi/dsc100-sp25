@@ -39,7 +39,7 @@ Tuesdays and Thursdays at 2:00p-3:20p
 
 Babak Salimi: Tuesdays at 4p-5p
 
-**Piazza:** [link](https://piazza.com/ucsd/winter2025/dsc100) (Requires access code posted on Canvas)
+**Piazza:** [link](https://piazza.com/ucsd/spring2025/dsc100/) (Requires access code posted on Canvas)
 
 **Have questions? Please email Babak Salimi (bsalimi@ucsd.edu) and at least one of the TAs for questions about logistics. All other questions should be discussed on Piazza.**
 
