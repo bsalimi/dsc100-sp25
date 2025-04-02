@@ -43,6 +43,8 @@ Babak Salimi: Tuesdays at 4p-5p
 
 Baharan Khatami: Mondays at 11:30a-12:30p
 
+Angelina Zhang: Wednesdays at 2p-3p
+
 Shruti Sawant: Fridays at 2p-3p
 
 **Piazza:** [link](https://piazza.com/ucsd/spring2025/dsc100/) (Requires access code posted on Canvas)
