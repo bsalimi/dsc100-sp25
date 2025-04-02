@@ -23,7 +23,7 @@ Databases are at the heart of modern commercial application development. Their u
 
 [Baharan Khatami](https://www.linkedin.com/in/bah-kh/), skhatami@ucsd.edu
 
-
+Angelina Zhang, ruz039@ucsd.edu
 
 
 **Lectures**:
