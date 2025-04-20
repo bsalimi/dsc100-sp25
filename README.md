@@ -59,7 +59,7 @@ Shruti Sawant: Fridays at 2p-3p
 ## Course Workload
 **(subject to change)**
 
-**Homework (30%):** There will be weekly homeworks consisting of written problem-solving and programming assignments (35%) and web quizzes (5%). The purpose of the homeworks is to provide students with the opportunity to apply and practice the concepts and skills learned in the lectures. Homeworks will be more rigorous than the web quizzes and will require students to demonstrate a deeper understanding of the material. The purpose of the web quizzes is to help students reinforce their understanding of the course material by answering review questions based on the previous lectures. The following is a list of the homeworks and web quizzes in the course:
+**Homework (30%):** There will be weekly homeworks consisting of written problem-solving and programming assignments (25%) and web quizzes (5%). The purpose of the homeworks is to provide students with the opportunity to apply and practice the concepts and skills learned in the lectures. Homeworks will be more rigorous than the web quizzes and will require students to demonstrate a deeper understanding of the material. The purpose of the web quizzes is to help students reinforce their understanding of the course material by answering review questions based on the previous lectures. The following is a list of the homeworks and web quizzes in the course:
 
 - Homework 1: SQLITE and SQL Basics
 - Homework 2: Basic SQL Queries
