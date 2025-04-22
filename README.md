@@ -39,7 +39,7 @@ Tuesdays and Thursdays at 2:00p-3:20p
 
 **Note:** Office hours will be held via Zoom (link can be found on the Canvas calendar - will be updated soon). 
 
-Babak Salimi: Tuesdays at 4p-5p
+Babak Salimi: Wednesdays at 4p-5p
 
 Baharan Khatami: Mondays at 11:30a-12:30p
 
